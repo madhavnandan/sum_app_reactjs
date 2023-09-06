@@ -1,0 +1,35 @@
+*body {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    margin: auto;
+    padding: auto;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px solid blue;
+    color: rgb(0, 248, 0);
+    background-color: slategray;
+    width: 300px;
+    height: 400px;
+    text-align: center;
+    border: 2px solid rgb(0, 248, 0);
+    border-radius: 5px;
+}
+
+input , button {
+    padding: 2px;
+    margin: 2px;
+    height: 30px;
+    font-size: 20px;
+    margin-top: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 5px;
+
+}
+
+p , label {
+    font-size: 20px;
+}
